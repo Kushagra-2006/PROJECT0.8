@@ -1,0 +1,12 @@
+div p{
+    background-color: blanchedalmond;
+}
+div>h1{
+    background-color:chartreuse;
+}
+div+h2{
+    background-color:crimson;
+}
+div~h3{
+    background-color: cyan;
+}
